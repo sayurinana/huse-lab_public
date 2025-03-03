@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhuse_lab=self.webpackChunkhuse_lab||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/huse-lab_public/blog","blogTitle":"Blog","authorsListPath":"/huse-lab_public/blog/authors"}')}}]);
