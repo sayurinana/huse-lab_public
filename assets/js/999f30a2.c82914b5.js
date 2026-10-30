@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhuse_lab=self.webpackChunkhuse_lab||[]).push([[4264],{1617:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/sayurinana.ink-public/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhuse_lab=self.webpackChunkhuse_lab||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/sayurinana.ink-public/blog","blogTitle":"Blog","authorsListPath":"/sayurinana.ink-public/blog/authors"}')}}]);
